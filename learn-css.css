@@ -9,7 +9,7 @@ p,ul,ol {margin:0 0 20px 0; padding:0;}
 p { text-align: justify;  }
 
 /*  set margin from the top and bottom of the page   */
-#wrap { background-image: url(bg.PNG); margin:20px auto; width:960px; margin-bottom: 50px;}
+#wrap { background-image: img src = "bng.png"; margin:20px auto; width:960px; margin-bottom: 50px;}
 
 
 /* header of the page */
